@@ -1,0 +1,10 @@
+# Ignorer les fichiers .env
+.env
+
+# Ignorer les fichiers de log et de temp
+log/*
+tmp/*
+
+# Ignorer les fichiers Ruby spécifiques
+*.gem
+*.rbc
